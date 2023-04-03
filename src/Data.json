@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "computer",
+    "price": "130",
+    "category": "computers",
+    "description": "",
+    "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "id": 2,
+    "name": "sweater",
+    "price": "1",
+    "category": "Clothing",
+    "description": "fashion, clothes , sweater, wool, cardigan,…"
+  },
+  {
+    "id": 3,
+    "name": "computer",
+    "price": "130",
+    "category": "computers",
+    "description": "",
+    "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "id": 4,
+    "name": "computer",
+    "price": "130",
+    "category": "computers",
+    "description": "",
+    "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+  },
+  {
+    "id": 13,
+    "name": "jacket",
+    "price": "190",
+    "category": "Clothing",
+    "description": "winter jacket ",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+  },
+  {
+    "id": 5,
+    "name": "sweater",
+    "price": "1",
+    "category": "Clothing",
+    "description": "fashion, clothes , sweater, wool, cardigan,…"
+  },
+  {
+    "id": 6,
+    "name": "tie",
+    "price": "46",
+    "category": "Clothing",
+    "description": "fashion, tie, clothes, accessory , accessoire,…",
+    "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
+  },
+
+  {
+    "id": 7,
+    "name": "sweater",
+    "price": "1",
+    "category": "Clothing",
+    "description": "fashion, clothes , sweater, wool, cardigan,…"
+  },
+  {
+    "id": 8,
+    "name": "tie",
+    "price": "46",
+    "category": "Clothing",
+    "description": "fashion, tie, clothes, accessory , accessoire,…",
+    "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
+  },
+  {
+    "id": 12,
+    "name": "jacket",
+    "price": "190",
+    "category": "Clothing",
+    "description": "winter jacket ",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+  },
+
+  {
+    "id": 9,
+    "name": "tie",
+    "price": "46",
+    "category": "Clothing",
+    "description": "fashion, tie, clothes, accessory , accessoire,…",
+    "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
+  },
+  {
+    "id": 10,
+    "name": "jacket",
+    "price": "190",
+    "category": "Clothing",
+    "description": "winter jacket ",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+  },
+  {
+    "id": 11,
+    "name": "jacket",
+    "price": "190",
+    "category": "Clothing",
+    "description": "winter jacket ",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+  }
+]

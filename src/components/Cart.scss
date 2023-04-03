@@ -1,0 +1,126 @@
+button {
+  cursor: pointer;
+}
+.cart-table {
+  margin: 0 auto;
+  border-spacing: 0;
+  width: 90%;
+  thead tr {
+    height: 35px;
+    text-align: center;
+  }
+  tbody {
+    tr {
+      background-color: white;
+      text-align: center;
+    }
+    .product-name {
+      text-align: left;
+    }
+    .blank-cart {
+      font-size: 25px;
+      font-weight: 300;
+      height: 100px;
+    }
+  }
+  input {
+    width: 25px;
+    height: 25px;
+    border: 0.5px solid #dee7eb;
+    background-color: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+  }
+  input:focus {
+    outline: none;
+    text-align: center;
+  }
+
+  .close-button {
+    background-color: red;
+    border: none;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    outline: none;
+    margin: 10px;
+  }
+  .close-icon {
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 900;
+  }
+
+  .handle-item {
+    height: 25px;
+    width: 25px;
+    font-size: 20px;
+    border: 0;
+    margin: 3px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(202, 200, 200);
+  }
+}
+
+.bottom {
+  position: absolute;
+  width: 100%;
+  bottom: 10px;
+  .bottom-button {
+    text-align: center;
+    margin: 0 auto;
+    button {
+      margin-top: 10px;
+      width: 45%;
+      height: 40px;
+      border-radius: 5px;
+      font-size: 12px;
+    }
+    .first {
+      background-color: red;
+      margin-right: 15px;
+      color: white;
+      border: 0;
+    }
+    .last {
+      background-color: green;
+      margin-right: 15px;
+      color: white;
+      border: 0;
+    }
+  }
+  .bottom-table {
+    width: 90%;
+    margin: 0 auto;
+    th {
+      width: 40%;
+      padding-left: 5px;
+      text-align: start;
+      background-color: #f1f3f3;
+    }
+    tbody {
+      width: 60%;
+      .last {
+        float: right;
+      }
+    }
+    input {
+      width: 120px;
+      border: 0px;
+      background-color: #f1f3f3;
+    }
+    input:focus {
+      outline: none;
+    }
+    tr {
+      height: 35px;
+      border: 0.5px solid #e7ececde;
+      border-collapse: collapse;
+    }
+    td {
+      background-color: #ffffff;
+      padding: 5px;
+    }
+  }
+}

@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Heebo:wght@300;500&display=swap");
+
+.App {
+  font-family: "Heebo", sans-serif;
+  font-weight: 500;
+  display: flex;
+  height: 100vh;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.left-side {
+  width: 40%;
+  border-right: 5px solid white;
+  gap: 50px;
+  position: relative;
+}
+
+.right-side {
+  width: 60%;
+}
