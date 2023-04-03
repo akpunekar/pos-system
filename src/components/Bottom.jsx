@@ -18,7 +18,13 @@ const Bottom = () => {
 
   return (
     <div className="bottom">
-      {show && <Receipt inputDiscount={inputDiscount} inputVat={inputVat} />}
+      {show && (
+        <Receipt
+          setShow={setShow}
+          inputDiscount={inputDiscount}
+          inputVat={inputVat}
+        />
+      )}
       <table className="bottom-table">
         <tbody>
           <tr>

@@ -15,8 +15,8 @@
   border-radius: 5px;
   width: 300px;
   max-width: 100%;
-  height: auto;
-  max-height: 60%;
+  height: 55%;
+  max-height: 80%;
   margin-top: 10px;
 }
 
@@ -63,8 +63,12 @@
   border-top: 1px solid #ccc;
   background-color: white;
   text-align: center;
+  height: 20px;
   button {
+    margin-top: 5px;
     background-color: white;
-    border: 1px black;
+    border: 1px solid black;
+    width: 90%;
+    height: 25px;
   }
 }

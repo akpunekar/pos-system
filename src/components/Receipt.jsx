@@ -3,7 +3,7 @@ import "./Receipt.scss";
 import { useSelector, useDispatch } from "react-redux";
 import { removeAll } from "../features/cartSlice";
 
-const Receipt = ({ inputVat, inputDiscount }) => {
+const Receipt = ({ inputVat, inputDiscount, setShow }) => {
   const cart = useSelector((state) => state.cart);
   const dispatch = useDispatch();
   const currentDate = new Date();
@@ -85,8 +85,8 @@ const Receipt = ({ inputVat, inputDiscount }) => {
           <button
             type="button"
             onClick={() => {
-              setShowModal(false);
               dispatch(removeAll());
+              setShow(false);
             }}
           >
             Close
